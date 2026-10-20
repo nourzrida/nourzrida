@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Nourzrida 👋
 
-<!--
-**nourzrida/nourzrida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I enjoy building useful and creative projects.
+- 🌱 I’m continuously learning and improving my skills.
+- 🤝 I’m open to collaboration and new ideas.
+
+## What I’m working on
+
+- Exploring new technologies
+- Building personal projects
+- Learning through open-source and experimentation
+
+## Tech and tools
+
+<!-- Add the languages, frameworks, and tools you use here. -->
+
+`Add your stack here`
+
+## Featured projects
+
+<!-- Add links to your favorite repositories here. -->
+
+- [Project name](https://github.com/nourzrida) — Short description
+
+## Connect with me
+
+- GitHub: [@nourzrida](https://github.com/nourzrida)
+
+---
+
+Thanks for visiting my profile! ✨
