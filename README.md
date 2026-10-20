@@ -1,35 +1,47 @@
-# Hi, I'm Nourzrida 👋
+# Hi, I'm Nour Zrida 👋
 
-Welcome to my GitHub profile!
+### AI Engineer | Software Engineer | Full-Stack Developer
 
-## About me
+🎓 Computer Engineering Graduate from **ENICarthage, Class of 2026**.
 
-- 💻 I enjoy building useful and creative projects.
-- 🌱 I’m continuously learning and improving my skills.
-- 🤝 I’m open to collaboration and new ideas.
+I'm passionate about Artificial Intelligence, Generative AI, and software engineering. I enjoy building intelligent applications that combine modern web technologies, scalable backends, and AI-powered solutions.
 
-## What I’m working on
+- 🔭 **Currently interested in:** AI Engineering, LLMs, RAG, AI Agents, and Full-Stack Development.
+- 🧠 **AI & Machine Learning:** Python, scikit-learn, PyTorch, NLP, LLMs, RAG, LangChain, LangGraph.
+- 💻 **Backend:** FastAPI, Spring Boot, Node.js, REST APIs, Microservices.
+- 🎨 **Frontend:** React, Angular, Next.js, JavaScript, TypeScript.
+- 🗄️ **Databases:** PostgreSQL, SQL, ChromaDB.
+- ⚙️ **Tools:** Git, GitHub, Docker, CI/CD.
 
-- Exploring new technologies
-- Building personal projects
-- Learning through open-source and experimentation
+## 🚀 Featured Projects
 
-## Tech and tools
+### Intelligent IT Operating Model Diagnostic Platform
+Developed during my graduation project at EY Tunisia, this platform supports IT operating model assessments using deterministic scoring, LLM-generated justifications, and RAG-powered recommendations based on IT governance frameworks.
 
-<!-- Add the languages, frameworks, and tools you use here. -->
+**Technologies:** React, FastAPI, PostgreSQL, LangGraph, ChromaDB, LLMs, RAG.
 
-`Add your stack here`
+### JobGate — AI-Powered CV Screening Assistant
+An application designed to assist recruitment by analyzing CVs and matching candidate profiles with job requirements using NLP and text similarity techniques.
 
-## Featured projects
+**Technologies:** Python, Streamlit, spaCy, TF-IDF, scikit-learn.
 
-<!-- Add links to your favorite repositories here. -->
+### Mobile & Web Applications
+Contributed to application development and digital solutions involving mobile interfaces, backend services, and data visualization.
 
-- [Project name](https://github.com/nourzrida) — Short description
+**Technologies:** React Native, JavaScript, APIs, and web technologies.
 
-## Connect with me
+## 📊 What I Enjoy
 
-- GitHub: [@nourzrida](https://github.com/nourzrida)
+- Building practical AI applications.
+- Designing and integrating APIs and microservices.
+- Exploring LLM applications, retrieval-augmented generation, and agentic systems.
+- Learning new technologies and solving challenging problems.
+
+## 🤝 Let's Connect
+
+- **GitHub:** [@nourzrida](https://github.com/nourzrida)
+- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/)
 
 ---
 
-Thanks for visiting my profile! ✨
+⭐ *Feel free to explore my repositories and follow my journey in AI and software engineering!*
